@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open-source software projects
 - 🤔 I’m looking for help with Apache Spark
 - 💬 Ask me about Linux, Virtulization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and other.
-- 📫 How to reach me: @sojodyan on twitter
+- 📫 How to reach me: [@sojodyan](http://twitter.com/sojodyan/)on twitter
 - 😄 Pronouns: mɑziɑr
 <!-- - ⚡ Fun fact: ... -->
