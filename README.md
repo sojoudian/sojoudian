@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Apache Spark
 - 💬 Ask me about Linux, Virtulization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and other.
 - 📫 How to reach me: [@sojodyan](http://twitter.com/sojodyan/) on twitter
+- 👽 Python best practices for Testdome tests [repository](https://github.com/sojoudian/testdome_python)
+- 🤖
 - 😄 Pronouns: mɑziɑr
+
 <!-- - ⚡ Fun fact: ... -->
