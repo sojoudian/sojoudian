@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 ![Bash](https://img.shields.io/badge/-Bash%20%EF%B8%8F-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![k8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
