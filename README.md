@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure)&nbsp;
+![Azure](https://img.shields.io/badge/-OpenStack-05122A?style=flat&logo=OpenStack)&nbsp;
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
