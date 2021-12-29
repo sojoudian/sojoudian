@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 \n
 
-### Here is an overview of the Languages & Tools that I'm using in daily basis 🛠
+## Languages & Tools that I'm using in daily basis 🛠
 
 ![Golang](https://img.shields.io/badge/-Golang%20❤️-05122A?style=flat&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=python&logoColor=white)&nbsp;
