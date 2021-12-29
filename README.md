@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Maziar and I'm just a Software Engineer.
+My name is Maziar and I'm just an ordinary Software Engineer.
 
 <!--
 **sojoudian/sojoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,12 +8,15 @@ My name is Maziar and I'm just a Software Engineer.
 Here are some ideas to get you started:
 -->
 
-### Languages & Tools 🛠
+### Here is an overview of the Languages & Tools that I'm using in daily basis 🛠
+
+## Here is an overview of the Languages & Tools that I'm using in daily basis 🛠
 
 ![Golang](https://img.shields.io/badge/-Golang%20❤️-05122A?style=flat&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash%20%EF%B8%8F-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![k8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
