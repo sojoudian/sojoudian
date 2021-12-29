@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open-source software projects
 - 🤔 I’m looking for help with Apache Spark
 - 💬 Ask me about Linux, Virtulization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and other.
-- 👽 Take a look at my Python best practices for Testdome tests [repository](https://github.com/sojoudian/testdome_python) and [repository](https://github.com/sojoudian/testDomePython)
+- 👽 Take a look at my Python best practices for Testdome tests [testdome_python](https://github.com/sojoudian/testdome_python) and [testDomePython](https://github.com/sojoudian/testDomePython) repositories
 - 🤖
 - 😄 Pronouns: mɑziɑr
 
