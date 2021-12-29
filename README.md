@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=FreeBSD&logoColor=white)&nbsp;
 
-### 👨‍💻 About me 😎
+### 👨‍💻 About me
 
 - 🔭 I’m currently working on Audio and Video streaming application and hosting them on the public and private clouds.
 - 🌱 I’m currently learning Concurrency, Parallel and Distributing and Multithreading Programming.
