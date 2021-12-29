@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
 
-![Neo4j](https://img.shields.io/badge/-Neo4j-0077B5?style=flat&logo=neo4j&logoColor=white)&nbsp;
-![Neo4j](https://img.shields.io/badge/-MySQL-0077B5?style=flat&logo=MySQL&logoColor=white)&nbsp;
+![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)&nbsp;
+![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
