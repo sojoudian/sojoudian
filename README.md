@@ -85,9 +85,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ Analytics
 
-<p align="center">
-    ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true)
-</p>
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true)
 
 <!-- ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=sojoudian&count_private=true&show_icons=true&theme=tokyonight)
 
