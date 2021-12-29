@@ -8,7 +8,7 @@ My name is Maziar and I'm just an ordinary Software Engineer.
 Here are some ideas to get you started:
 -->
 
-### Here is an overview of the Languages & Tools that I'm using in daily basis 🛠
+\n
 
 ## Here is an overview of the Languages & Tools that I'm using in daily basis 🛠
 
