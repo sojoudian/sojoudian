@@ -10,7 +10,7 @@ My name is Maziar and I'm just an ordinary Software Engineer. -->
 Here are some ideas to get you started:
 -->
 
-## My Faviorite Languages & Tools 🛠
+### My Faviorite Languages & Tools 🛠
 
 ![Golang](https://img.shields.io/badge/-Golang%20❤️-05122A?style=flat&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=python&logoColor=white)&nbsp;
