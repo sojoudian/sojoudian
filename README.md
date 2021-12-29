@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 🤖
 - 😄 Pronouns: mɑziɑr
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 <!-- [@sojodyan](http://twitter.com/sojodyan/) on twitter anf <p align="left"> -->
 
