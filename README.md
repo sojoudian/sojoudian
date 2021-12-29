@@ -10,7 +10,7 @@ My name is Maziar and I'm just an ordinary Software Engineer. -->
 Here are some ideas to get you started:
 -->
 
-### My Faviorite Languages & Tools 🛠
+### 🛠 My Faviorite Languages & Tools
 
 ![Golang](https://img.shields.io/badge/-Golang%20%E2%9D%A4%EF%B8%8F-05122A?style=flat&logo=go&logoColor=Blue)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
@@ -83,9 +83,11 @@ Here are some ideas to get you started:
 
 <!-- <p><a href="https://twitter.com/sojoudian"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>   <a href="https://www.linkedin.com/in/sojoudian"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a></p> -->
 
-### Analytics ⚙️
+### ⚙️ Analytics
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true)
+<p align="center">
+    ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true)
+</p>
 
 <!-- ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=sojoudian&count_private=true&show_icons=true&theme=tokyonight)
 
