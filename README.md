@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 
 <p align='center'>
-   <a href="https://www.sojoudian.net" title="Website from Maziar Sojoudian">
+   <a href="https://sojoudian.net/blog/" title="Website from Maziar Sojoudian">
      <img src="https://img.shields.io/badge/Maziar-blog-%23025a5f.svg?&style=for-the-badge&logo=Maziar&logoColor=white" />
   </a>&nbsp;&nbsp;
   
