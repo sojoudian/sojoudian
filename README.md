@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![RockyLinux](https://img.shields.io/badge/-RockyLinux-05122A?style=flat&logo=rockylinux)&nbsp;
-![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=a80030)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=FreeBSD&logoColor=red)&nbsp;
 
