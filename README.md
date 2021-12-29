@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ### My Faviorite Languages & Tools 🛠
 
-![Golang](https://img.shields.io/badge/-Golang%20❤️-05122A?style=flat&logo=go&logoColor=white)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang%20%E2%9D%A4%EF%B8%8F-05122A?style=flat&logo=go&logoColor=Blue)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash%20%EF%B8%8F-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
