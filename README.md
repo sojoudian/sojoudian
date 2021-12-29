@@ -57,9 +57,7 @@ Here are some ideas to get you started:
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=sojoudian&count_private=true&show_icons=true&theme=tokyonight)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true) ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=sojoudian&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sojoudian&hide_border=true)
 
