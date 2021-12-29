@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
 
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![RockyLinux](https://img.shields.io/badge/-RockyLinux-05122A?style=flat&logo=rockylinux)&nbsp;
+![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=FreeBSD&logoColor=white)&nbsp;
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=FreeBSD&logoColor=red)&nbsp;
 
 ### 👨‍💻 About me
 
