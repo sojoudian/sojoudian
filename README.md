@@ -40,12 +40,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open-source software projects
 - 🤔 I’m looking for help with Apache Spark
 - 💬 Ask me about Linux, Virtulization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and other.
-- 📫 How to reach me: [@sojodyan](http://twitter.com/sojodyan/) on twitter anf <p align="left">
-<a href="https://www.linkedin.com/in/sojoudian"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
 - 👽 Python best practices for Testdome tests [repository](https://github.com/sojoudian/testdome_python)
 - 🤖
 - 😄 Pronouns: mɑziɑr
+
+## 📫 How to reach me:
+
+<!-- [@sojodyan](http://twitter.com/sojodyan/) on twitter anf <p align="left"> -->
+
+<a href="https://www.linkedin.com/in/sojoudian">on twitter<img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a></p>
+<a href="https://www.linkedin.com/in/sojoudian"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a></p>
 
 ### Analytics ⚙️
 
