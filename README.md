@@ -8,8 +8,6 @@ My name is Maziar and I'm just an ordinary Software Engineer.
 Here are some ideas to get you started:
 -->
 
-##
-
 ## Languages & Tools that I'm using in daily basis 🛠
 
 ![Golang](https://img.shields.io/badge/-Golang%20❤️-05122A?style=flat&logo=go&logoColor=white)&nbsp;
