@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![k8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+![OpenStack](https://img.shields.io/badge/-OpenStack-05122A?style=flat&logo=OpenStack)&nbsp;
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure)&nbsp;
-![OpenStack](https://img.shields.io/badge/-OpenStack-05122A?style=flat&logo=OpenStack)&nbsp;
 
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open-source software projects
 - 🤔 I’m looking for help with Apache Spark
 - 💬 Ask me about Linux, Virtulization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and other.
-- 👽 Python best practices for Testdome tests [repository](https://github.com/sojoudian/testdome_python)
+- 👽 Take a look at my Python best practices for Testdome tests [repository](https://github.com/sojoudian/testdome_python) and [repository](https://github.com/sojoudian/testDomePython)
 - 🤖
 - 😄 Pronouns: mɑziɑr
 
