@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 ## My Faviorite Languages & Tools 🛠
 
-![Golang](https://img.shields.io/badge/-Golang%20%E2%9D%A4%EF%B8%8F-8cd3f9?style=flat&logo=go&logoColor=white)&nbsp;
+![Golang](https://img.shields.io/badge/-Golang%20❤️-05122A?style=flat&logo=go&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash%20%EF%B8%8F-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
 
 ![Neo4j](https://img.shields.io/badge/-Neo4j-0077B5?style=flat&logo=neo4j&logoColor=white)&nbsp;
-![Neo4j](https://img.shields.io/badge/-Neo4j-0077B5?style=flat&logo=neo4j&logoColor=white)&nbsp;
-![Neo4j](https://img.shields.io/badge/-Neo4j-0077B5?style=flat&logo=neo4j&logoColor=white)&nbsp;
+![Neo4j](https://img.shields.io/badge/-MySQL-0077B5?style=flat&logo=MySQL&logoColor=white)&nbsp;
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
