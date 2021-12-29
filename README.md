@@ -1,6 +1,8 @@
-### Hi there 👋
+# ⚡️ Maziar Sojoudian
 
-My name is Maziar and I'm just an ordinary Software Engineer.
+<!-- ### Hi there 👋
+
+My name is Maziar and I'm just an ordinary Software Engineer. -->
 
 <!--
 **sojoudian/sojoudian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,7 +40,7 @@ Here are some ideas to get you started:
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=FreeBSD&logoColor=white)&nbsp;
 
-### About me 😎
+### 👨‍💻 About me 😎
 
 - 🔭 I’m currently working on Audio and Video streaming application and hosting them on the public and private clouds.
 - 🌱 I’m currently learning Concurrency, Parallel and Distributing and Multithreading Programming.
@@ -51,13 +53,41 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 
+<p align='center'>
+   <a href="https://www.sojoudian.net" title="Website from Maziar Sojoudian">
+     <img src="https://img.shields.io/badge/Maziar-blog-%23025a5f.svg?&style=for-the-badge&logo=ElioStruyf&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://mvp.microsoft.com/en-us/PublicProfile/5001411" title="MVP Profile from Elio Struyf">
+     <img src="https://img.shields.io/badge/MVP-Office Development-%23D83B01.svg?&style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.eliostruyf.com/contact" title="Contact me">
+    <img src="https://img.shields.io/badge/Struyf%20Consulting-Need%20Help%3F-%23025a5f.svg?&style=for-the-badge" />        
+  </a>
+</p>
+
+<p align='center'>
+   <a href="https://twitter.com/sojodyan">
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sojoudian">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <!-- <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp; -->
+  <!-- <a href="https://marketplace.visualstudio.com/publishers/">
+    <img src="https://img.shields.io/badge/vscode extensions-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />        
+  </a> -->
+</p>
 <!-- [@sojodyan](http://twitter.com/sojodyan/) on twitter anf <p align="left"> -->
 
-<p><a href="https://twitter.com/sojoudian"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>   <a href="https://www.linkedin.com/in/sojoudian"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a></p>
+<!-- <p><a href="https://twitter.com/sojoudian"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>   <a href="https://www.linkedin.com/in/sojoudian"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a></p> -->
 
 ### Analytics ⚙️
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true) ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=sojoudian&count_private=true&show_icons=true&theme=tokyonight)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=sojoudian&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sojoudian&hide_border=true)
 
