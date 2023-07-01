@@ -44,22 +44,22 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About me
 
-- 🔭 I’m currently working on Audio and Video streaming application and hosting them on the public and private clouds.
-- 🌱 I’m currently learning Concurrency, Parallel and Distributing and Multithreading Programming.
+- 🔭 I’m currently working on Audio and Video streaming applications and hosting them on the public and private clouds.
+- 🌱 I’m currently learning Concurrency, Parallel and Distributing, and Multithreading Programming.
 - 🤖 I’m looking to collaborate on Open-source software projects
 - 🤔 I’m looking for help with Apache Spark
-- 💬 Ask me about Linux, Virtulization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and other.
+- 💬 Ask me about Linux, Virtualization, Cloud, DevOps, Python, Recommendation systems, Knowledge Graphs, Graph databases, and others.
 - 👽 Take a look at my Python best practices for Testdome tests [testdome_python](https://github.com/sojoudian/testdome_python) and [testDomePython](https://github.com/sojoudian/testDomePython) repositories
 - 😄 Pronouns: mɑziɑr
 
 ### 📫 How to reach me:
 
 <p align='center'>
-   <a href="https://sojoudian.net/blog/" title="Website from Maziar Sojoudian">
+   <a href="https://maziar.work/" title="Website from Maziar Sojoudian">
      <img src="https://img.shields.io/badge/Maziar-blog-%23025a5f.svg?&style=for-the-badge&logo=Maziar&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://www.maziar.email" title="Contact me">
+  <a href="https://maziar.email" title="Contact me">
     <img src="https://img.shields.io/badge/Maziar%20Consulting-Need%20Help%3F-%23025a5f.svg?&style=for-the-badge" />
   </a>
 </p>
