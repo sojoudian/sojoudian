@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![RHEL](https://img.shields.io/badge/RHEL-CC0000?style=flat&logo=redhat&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat&logo=centos&logoColor=white)&nbsp;
+![CentOS](https://img.shields.io/badge/CentOS-05122A?style=flat&logo=centos&logoColor=white)&nbsp;
 ![RockyLinux](https://img.shields.io/badge/-RockyLinux-05122A?style=flat&logo=rockylinux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=a80030)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=Orange)
