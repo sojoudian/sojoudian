@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 <!-- <p><a href="https://twitter.com/sojoudian"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white"/></a>   <a href="https://www.linkedin.com/in/sojoudian"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a></p> -->
 
 ### ⚙️ Analytics
+![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=sojoudian&repo=sojoudian&countColorcountColor)
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sojoudian&layout=compact&count_private=true)
 
