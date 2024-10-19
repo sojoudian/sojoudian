@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 
 <p align='center'>
-   <a href="https://maziar.work/" title="Website from Maziar Sojoudian">
-     <img src="https://img.shields.io/badge/Maziar-blog-%23025a5f.svg?&style=for-the-badge&logo=Maziar&logoColor=white" />
+  <a href="https://maziar.work/" title="Website from Maziar Sojoudian">
+    <img src="https://img.shields.io/badge/Maziar-blog-%23025a5f.svg?&style=for-the-badge&logo=Maziar&logoColor=white" />
   </a>&nbsp;&nbsp;
   
   <a href="https://maziar.email" title="Contact me">
@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sojoudian&hide_border=true)
 
-![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=sojoudian&repo=sojoudian&countColorcountColor)
+
 
 <!-- - ⚡ Fun fact: ... -->
