@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/-Rust%20%EF%B8%8F-05122A?style=flat&logo=Rust&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20%EF%B8%8F-05122A?style=flat&logo=Python&logoColor=yellow)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=lightgreen)&nbsp;
-![Bash](https://img.shields.io/badge/Bash-4EAA25-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash%20%EF%B8%8F-05122A?style=flat&logo=Linux&logoColor=white)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=Lua&logoColor=white)&nbsp;
 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
