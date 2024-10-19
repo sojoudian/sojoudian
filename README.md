@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=blue)&nbsp;
 
-![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat-square&logo=nginx&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat-square&logo=nginx&logoColor=green)&nbsp;
 
 
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=5f43e9)&nbsp;
