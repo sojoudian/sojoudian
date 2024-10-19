@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=blue)&nbsp;
 
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=5f43e9)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=FF0000)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=FFCCCB)&nbsp;
 
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColo)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)&nbsp;
