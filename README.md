@@ -94,6 +94,6 @@ Here are some ideas to get you started:
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sojoudian&hide_border=true)
 
-
+![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=sojoudian&repo=sojoudian&countColorcountColor)
 
 <!-- - ⚡ Fun fact: ... -->
