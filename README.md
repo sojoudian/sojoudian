@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![OpenStack](https://img.shields.io/badge/-OpenStack-05122A?style=flat&logo=OpenStack&logoColor=red)&nbsp;
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=blue)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=lightblue)&nbsp;
 
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=5f43e9)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)&nbsp;
 ![RockyLinux](https://img.shields.io/badge/-RockyLinux-05122A?style=flat&logo=rockylinux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=Debian&logoColor=a80030)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple&logoColor=white)&nbsp;
