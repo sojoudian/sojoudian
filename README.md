@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![OpenStack](https://img.shields.io/badge/-OpenStack-05122A?style=flat&logo=OpenStack&logoColor=red)&nbsp;
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=azure&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=blue)&nbsp;
 
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=5f43e9)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible)&nbsp;
