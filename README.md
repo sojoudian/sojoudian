@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat-square&logo=nginx&logoColor=green)&nbsp;
 
 
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=5f43e9)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=FF0000)&nbsp;
 
 ![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColo)&nbsp;
