@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=DAB1DA)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=FF0000)&nbsp;
 
-![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColo)&nbsp;
+![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColor=ADD8E6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=white)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB&logoColor)&nbsp;
 
