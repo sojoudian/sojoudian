@@ -27,10 +27,6 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
 
-![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColor=ADD8E6)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=ADD8E6)&nbsp;
-![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB&logoColor)&nbsp;
-
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=blue)&nbsp;
@@ -39,6 +35,10 @@ Here are some ideas to get you started:
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=FF0000)&nbsp; 
 
 ![Nginx](https://img.shields.io/badge/Nginx-05122A?style=flat-square&logo=nginx&logoColor=green)&nbsp;
+
+![Neo4j](https://img.shields.io/badge/-Neo4j-05122A?style=flat&logo=neo4j&logoColor=ADD8E6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=ADD8E6)&nbsp;
+![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDB&logoColor)&nbsp;
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![RHEL](https://img.shields.io/badge/RHEL-05122A?style=flat&logo=redhat&logoColor=FF0000)
