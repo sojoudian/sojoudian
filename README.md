@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 ![k8s](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
 ![OpenStack](https://img.shields.io/badge/-OpenStack-05122A?style=flat&logo=OpenStack&logoColor=red)&nbsp;
 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
-
 ![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=MicrosoftAzure&logoColor=blue)&nbsp;
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![BitBucket](https://img.shields.io/badge/-BitBucket-05122A?style=flat&logo=bitbucket)&nbsp;
 
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?style=flat&logo=Terraform&logoColor=DAB1DA)&nbsp;
 ![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=Ansible&logoColor=FF0000)&nbsp; 
