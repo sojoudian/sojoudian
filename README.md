@@ -1,5 +1,6 @@
-# ⚡️ Maziar Sojoudian
-<h5 align="center">Just a Software Engineer</h5>
+<h1 align="center">Maziar Sojoudian</h1>
+<!-- <h5 align="center">Just a Software Engineer</h5> 
+-->
 <!-- ### Hi there 👋
 
 My name is Maziar and I'm just an ordinary Software Engineer. -->
