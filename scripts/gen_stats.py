@@ -30,6 +30,12 @@ THEME = {
 
 FONT = "'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif"
 
+# The stats card and the streak card sit side by side on one line.
+# CARD_W is the width of each one. WIDE_W is the width of the pair, with the
+# 4 px gap that Markdown puts between the two images.
+CARD_W = 400
+WIDE_W = CARD_W * 2 + 4
+
 # Fallback colors for languages that the API gives no color for.
 FALLBACK_COLOR = "#858585"
 
@@ -139,10 +145,10 @@ def esc(text):
     )
 
 
-def card(width, height, title, body):
+def card(width, height, title, body, title_x=20, title_y=28, title_size=16):
     return """<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" role="img" aria-label="{t}">
   <rect x="0.5" y="0.5" width="{w1}" height="{h1}" rx="4.5" fill="{bg}" stroke="{border}"/>
-  <text x="25" y="35" font-family="{font}" font-size="18" font-weight="600" fill="{title}">{t}</text>
+  <text x="{tx}" y="{ty}" font-family="{font}" font-size="{ts}" font-weight="600" fill="{title}">{t}</text>
 {body}
 </svg>
 """.format(
@@ -151,11 +157,24 @@ def card(width, height, title, body):
         w1=width - 1,
         h1=height - 1,
         t=esc(title),
+        tx=title_x,
+        ty=title_y,
+        ts=title_size,
         bg=THEME["bg"],
         border=THEME["border"],
         font=FONT,
         title=THEME["title"],
         body=body,
+    )
+
+
+def scaled(markup, x, y, factor):
+    """Scale markup around the point (x, y)."""
+    return '<g transform="translate(%.2f,%.2f) scale(%s)">%s</g>' % (
+        x * (1 - factor),
+        y * (1 - factor),
+        factor,
+        markup,
     )
 
 
@@ -224,22 +243,22 @@ def stats_card(stats):
         ("issue", "Total Issues", stats["issues"]),
         ("repo", "Contributed to", stats["contributed"]),
     ]
-    width, top, step = 495, 70, 30
+    # The height matches the streak card, so the two sit level on one line.
+    width, height, top, step = CARD_W, 195, 58, 23
     parts = []
     for i, (kind, label, value) in enumerate(rows):
         y = top + i * step
         parts.append("  <g>")
-        parts.append("    " + icon(kind, 33, y - 5))
+        parts.append("    " + scaled(icon(kind, 28, y - 4), 28, y - 4, 0.72))
         parts.append(
-            '    <text x="53" y="%s" font-family="%s" font-size="14" font-weight="600" fill="%s">%s:</text>'
+            '    <text x="44" y="%s" font-family="%s" font-size="13" font-weight="600" fill="%s">%s:</text>'
             % (y, FONT, THEME["text"], esc(label))
         )
         parts.append(
-            '    <text x="%s" y="%s" font-family="%s" font-size="14" font-weight="600" fill="%s" text-anchor="end">%s</text>'
-            % (width - 30, y, FONT, THEME["text"], f"{value:,}")
+            '    <text x="%s" y="%s" font-family="%s" font-size="13" font-weight="600" fill="%s" text-anchor="end">%s</text>'
+            % (width - 20, y, FONT, THEME["text"], f"{value:,}")
         )
         parts.append("  </g>")
-    height = top + len(rows) * step + 2
     title = "%s's GitHub Stats" % stats["name"]
     return card(width, height, title, "\n".join(parts))
 
@@ -247,7 +266,8 @@ def stats_card(stats):
 def langs_card(langs, limit=8):
     items = sorted(langs.items(), key=lambda kv: kv[1]["size"], reverse=True)[:limit]
     total = sum(entry["size"] for _, entry in items) or 1
-    width, bar_x, bar_w, bar_y = 495, 25, 445, 55
+    width, bar_x, bar_y = WIDE_W, 20, 48
+    bar_w = width - 2 * bar_x
     parts = ['  <g>', '    <rect x="%s" y="%s" width="%s" height="8" rx="4" fill="#2f3146"/>' % (bar_x, bar_y, bar_w)]
     offset = 0.0
     for name, entry in items:
@@ -264,11 +284,12 @@ def langs_card(langs, limit=8):
                  % (bar_x, bar_y, bar_w, THEME["bg"]))
     parts.append("  </g>")
 
-    col_x = [25, 260]
-    rows_per_col = (len(items) + 1) // 2
+    columns = 4
+    rows_per_col = math.ceil(len(items) / columns)
+    col_w = (width - 2 * bar_x) // columns
     for i, (name, entry) in enumerate(items):
-        x = col_x[i // rows_per_col]
-        y = 88 + (i % rows_per_col) * 24
+        x = bar_x + (i // rows_per_col) * col_w
+        y = 80 + (i % rows_per_col) * 24
         pct = entry["size"] / total * 100
         parts.append("  <g>")
         parts.append('    <circle cx="%s" cy="%s" r="5" fill="%s"/>'
@@ -278,7 +299,7 @@ def langs_card(langs, limit=8):
             % (x + 16, y, FONT, THEME["text"], esc(name), pct)
         )
         parts.append("  </g>")
-    height = 88 + rows_per_col * 24 - 10
+    height = 80 + rows_per_col * 24 - 10
     return card(width, height, "Most Used Languages", "\n".join(parts))
 
 
