@@ -247,7 +247,7 @@ def stats_card(stats):
 def langs_card(langs, limit=8):
     items = sorted(langs.items(), key=lambda kv: kv[1]["size"], reverse=True)[:limit]
     total = sum(entry["size"] for _, entry in items) or 1
-    width, bar_x, bar_w, bar_y = 340, 25, 290, 55
+    width, bar_x, bar_w, bar_y = 495, 25, 445, 55
     parts = ['  <g>', '    <rect x="%s" y="%s" width="%s" height="8" rx="4" fill="#2f3146"/>' % (bar_x, bar_y, bar_w)]
     offset = 0.0
     for name, entry in items:
@@ -264,7 +264,7 @@ def langs_card(langs, limit=8):
                  % (bar_x, bar_y, bar_w, THEME["bg"]))
     parts.append("  </g>")
 
-    col_x = [25, 182]
+    col_x = [25, 260]
     rows_per_col = (len(items) + 1) // 2
     for i, (name, entry) in enumerate(items):
         x = col_x[i // rows_per_col]

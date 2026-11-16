@@ -4,12 +4,12 @@
   <g>
     <polygon points="33.00,57.00 35.00,62.25 40.61,62.53 36.23,66.05 37.70,71.47 33.00,68.40 28.30,71.47 29.77,66.05 25.39,62.53 31.00,62.25" fill="#bf91f3"/>
     <text x="53" y="70" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae">Total Stars Earned:</text>
-    <text x="465" y="70" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae" text-anchor="end">197</text>
+    <text x="465" y="70" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae" text-anchor="end">198</text>
   </g>
   <g>
     <line x1="25" y1="95" x2="29" y2="95" stroke="#bf91f3" stroke-width="2"/><line x1="37" y1="95" x2="41" y2="95" stroke="#bf91f3" stroke-width="2"/><circle cx="33" cy="95" r="3.6" fill="none" stroke="#bf91f3" stroke-width="2"/>
     <text x="53" y="100" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae">Total Commits:</text>
-    <text x="465" y="100" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae" text-anchor="end">2,033</text>
+    <text x="465" y="100" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae" text-anchor="end">2,059</text>
   </g>
   <g>
     <circle cx="27" cy="119" r="2.6" fill="#bf91f3"/><circle cx="27" cy="131" r="2.6" fill="#bf91f3"/><circle cx="39" cy="119" r="2.6" fill="#bf91f3"/><line x1="27" y1="121" x2="27" y2="129" stroke="#bf91f3" stroke-width="2"/><line x1="29" y1="119" x2="37" y2="119" stroke="#bf91f3" stroke-width="2"/>
@@ -29,6 +29,6 @@
   <g>
     <rect x="26" y="208" width="13" height="14" rx="2" fill="none" stroke="#bf91f3" stroke-width="2"/><line x1="30" y1="208" x2="30" y2="222" stroke="#bf91f3" stroke-width="2"/>
     <text x="53" y="220" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae">Contributed to:</text>
-    <text x="465" y="220" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae" text-anchor="end">14</text>
+    <text x="465" y="220" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#38bdae" text-anchor="end">53</text>
   </g>
 </svg>

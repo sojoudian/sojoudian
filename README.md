@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 ![Github Statistics](./assets/stats.svg)
 
-![Github Contributions](https://streak-stats.demolab.com/?user=sojoudian&hide_border=true)
+![Github Contributions](https://streak-stats.demolab.com/?user=sojoudian&hide_border=true&theme=tokyonight&background=1A1B27&border=2F3146&card_width=495)
 
 
 
