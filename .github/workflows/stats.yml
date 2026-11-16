@@ -1,0 +1,59 @@
+name: Profile stat cards
+
+on:
+  schedule:
+    # 04:17 UTC each day.
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/gen_stats.py"
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stat-cards
+  cancel-in-progress: false
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate the cards
+        env:
+          # STATS_TOKEN is optional. Add it as a repository secret to count
+          # private repositories. Without it the cards show public data only.
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          STATS_LOGIN: ${{ github.repository_owner }}
+        run: python3 scripts/gen_stats.py
+
+      - name: Commit the cards
+        env:
+          # The commit author is the owner of this token.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          for file in assets/stats.svg assets/top-langs.svg; do
+            if [ -z "$(git status --porcelain -- "$file")" ]; then
+              echo "$file is unchanged."
+              continue
+            fi
+            sha="$(gh api "repos/${GITHUB_REPOSITORY}/contents/${file}" --jq .sha 2>/dev/null || true)"
+            args=(--method PUT "repos/${GITHUB_REPOSITORY}/contents/${file}"
+                  -f "message=chore: refresh ${file}"
+                  -f "content=$(base64 -w0 "$file")"
+                  -f "branch=${GITHUB_REF_NAME}")
+            if [ -n "$sha" ]; then
+              args+=(-f "sha=${sha}")
+            fi
+            gh api "${args[@]}" --jq .commit.sha
+          done
