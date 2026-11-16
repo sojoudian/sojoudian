@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 ### 📫 How to reach me:
 
 <p align='center'>
-  <a href="https://maziar.work/" title="Website from Maziar Sojoudian">
+  <a href="https://maziar.studio/" title="Website from Maziar Sojoudian">
     <img src="https://img.shields.io/badge/Maziar-blog-%23025a5f.svg?style=for-the-badge&logo=hugo&logoColor=white" />
   </a>&nbsp;&nbsp;
   
-  <a href="https://maziar.email" title="Contact me">
+  <a href="https://maziar.studio" title="Contact me">
     <img src="https://img.shields.io/badge/Maziar%20Consulting-Need%20Help%3F-%23025a5f.svg?style=for-the-badge" />
   </a>
 </p>
