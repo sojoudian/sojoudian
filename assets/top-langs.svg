@@ -3,13 +3,13 @@
   <text x="20" y="28" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#70a5fd">Most Used Languages</text>
   <g>
     <rect x="20" y="48" width="764" height="8" rx="4" fill="#2f3146"/>
-    <rect x="20.00" y="48" width="564.22" height="8" fill="#3572A5"/>
-    <rect x="584.22" y="48" width="47.27" height="8" fill="#e34c26"/>
-    <rect x="631.48" y="48" width="42.53" height="8" fill="#427819"/>
-    <rect x="674.01" y="48" width="33.75" height="8" fill="#89e051"/>
-    <rect x="707.76" y="48" width="28.80" height="8" fill="#00ADD8"/>
-    <rect x="736.56" y="48" width="17.02" height="8" fill="#DA5B0B"/>
-    <rect x="753.58" y="48" width="15.83" height="8" fill="#f1e05a"/>
+    <rect x="20.00" y="48" width="564.23" height="8" fill="#3572A5"/>
+    <rect x="584.23" y="48" width="47.26" height="8" fill="#e34c26"/>
+    <rect x="631.49" y="48" width="42.52" height="8" fill="#427819"/>
+    <rect x="674.02" y="48" width="33.75" height="8" fill="#89e051"/>
+    <rect x="707.77" y="48" width="28.80" height="8" fill="#00ADD8"/>
+    <rect x="736.57" y="48" width="17.02" height="8" fill="#DA5B0B"/>
+    <rect x="753.59" y="48" width="15.83" height="8" fill="#f1e05a"/>
     <rect x="769.42" y="48" width="14.58" height="8" fill="#663399"/>
     <rect x="20" y="48" width="764" height="8" rx="4" fill="none" stroke="#1a1b27"/>
   </g>
