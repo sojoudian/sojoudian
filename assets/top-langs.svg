@@ -3,10 +3,10 @@
   <text x="20" y="28" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#70a5fd">Most Used Languages</text>
   <g>
     <rect x="20" y="48" width="764" height="8" rx="4" fill="#2f3146"/>
-    <rect x="20.00" y="48" width="567.06" height="8" fill="#3572A5"/>
-    <rect x="587.06" y="48" width="46.25" height="8" fill="#e34c26"/>
-    <rect x="633.30" y="48" width="41.61" height="8" fill="#427819"/>
-    <rect x="674.91" y="48" width="34.50" height="8" fill="#89e051"/>
+    <rect x="20.00" y="48" width="567.05" height="8" fill="#3572A5"/>
+    <rect x="587.05" y="48" width="46.24" height="8" fill="#e34c26"/>
+    <rect x="633.29" y="48" width="41.61" height="8" fill="#427819"/>
+    <rect x="674.90" y="48" width="34.51" height="8" fill="#89e051"/>
     <rect x="709.41" y="48" width="28.18" height="8" fill="#00ADD8"/>
     <rect x="737.59" y="48" width="16.65" height="8" fill="#DA5B0B"/>
     <rect x="754.24" y="48" width="15.49" height="8" fill="#f1e05a"/>
